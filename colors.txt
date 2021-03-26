@@ -1,8 +1,9 @@
-Red
+Maroon
 Green
-Yellow
+DarkYellow
 Orange
 Blue
+voilet
 Brown
 Purple
 Black
