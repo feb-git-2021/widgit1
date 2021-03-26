@@ -1,1 +1,2 @@
 This is configuration file 
+Connection string is in the config file
